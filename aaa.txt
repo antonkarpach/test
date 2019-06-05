@@ -1,0 +1,11 @@
+app\models\Article
+
+app\models\ArticleSearch
+
+app\modules\admin\controllers\ArticleController
+
+@app/modules/admin/views/article
+
+
+this we are geterating for article, category and tag, almost the same.
+
